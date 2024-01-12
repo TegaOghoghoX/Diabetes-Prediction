@@ -10,12 +10,12 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 - Google Colaboratory
 - Python
 
-## Result
-Accuracy: 82.47%
+## 📫 Result
+- Accuracy: 82.47%
 
-F1 Score: 70.97%
+- F1 Score: 70.97%
 
-Specificity: 94%
+- Specificity: 94%
 
-Sensitivity: 61.11%
+- Sensitivity: 61.11%
 
