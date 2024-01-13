@@ -11,11 +11,4 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 - Python
 
 ## 📫 Result
-- Accuracy: 82.47%
-
-- F1 Score: 70.97%
-
-- Specificity: 94%
-
-- Sensitivity: 61.11%
-
+- Accuracy: 82.47%    |    F1 Score: 70.97%    |    Specificity: 94%    |    Sensitivity: 61.11%
